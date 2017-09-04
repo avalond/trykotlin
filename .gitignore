@@ -1,0 +1,11 @@
+.idea/
+*.iws
+
+# IntelliJ
+out/
+
+.idea_modules/
+*.iml
+.DS_Store
+
+
